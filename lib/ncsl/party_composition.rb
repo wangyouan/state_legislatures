@@ -9,9 +9,10 @@ module Ncsl
       {:year => 2012, :url => "http://www.ncsl.org/documents/statevote/legiscontrol_2012.pdf"},
       {:year => 2013, :url => "http://www.ncsl.org/documents/statevote/legiscontrol_2013.pdf"},
       {:year => 2014, :url => "http://www.ncsl.org/documents/statevote/legiscontrol_2014.pdf"},
-      {:year => 2015, :url => "http://www.ncsl.org/Portals/1/Documents/Elections/Legis_Control_2015_Feb4_11am.pdf"},
+      {:year => 2015, :url => "http://www.ncsl.org/Portals/1/Documents/Elections/Legis_Control_2015.pdf"},
       {:year => 2016, :url => "http://www.ncsl.org/Portals/1/Documents/Elections/Legis_Control_2016_Apr20.pdf"},
-      {:year => 2017, :url => "http://www.ncsl.org/portals/1/documents/elections/Legis_Control_2016_Post12_28_2pm.pdf"}
+      {:year => 2017, :url => "http://www.ncsl.org/Portals/1/Documents/Elections/Legis_Control_2017_March_1_9%20am.pdf"}
+      {:year => 2018, :url => "http://www.ncsl.org/Portals/1/Documents/Elections/Post_Election_Legis_Control_2018_December_10th.pdf"}
     ]
   end
 end
